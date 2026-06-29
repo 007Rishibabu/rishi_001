@@ -1,2 +1,3 @@
 # rishi_001
-Tishi is my first git repository.
+Rshi is my first git repository.
+Rishi Babu
